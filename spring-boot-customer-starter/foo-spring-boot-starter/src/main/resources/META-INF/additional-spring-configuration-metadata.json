@@ -1,0 +1,16 @@
+{
+  "properties": [
+    {
+      "name": "foo.fooMessage",
+      "type": "java.lang.String",
+      "description": "Foo Message.",
+      "defaultValue": "Foo!"
+    },
+    {
+      "name": "foo.barMessage",
+      "type": "java.lang.String",
+      "description": "Bar Message.",
+      "defaultValue": "Bar!"
+    }
+  ]
+}
